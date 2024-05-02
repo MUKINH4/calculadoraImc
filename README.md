@@ -1,2 +1,2 @@
 # Calculadora de IMC
-<p>Calculadora feita com JavaScript, HTMl e CSS</p>
+<p>Calculadora feita com JavaScript, HTML e CSS</p>
